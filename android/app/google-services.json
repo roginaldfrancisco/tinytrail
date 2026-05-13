@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323667673843",
+    "project_id": "tinytrail-f994f",
+    "storage_bucket": "tinytrail-f994f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323667673843:android:9561c22f9f861108c06d86",
+        "android_client_info": {
+          "package_name": "com.example.tinytrail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9pVyiYSTl4549sQ8PowxJxmnMugJX07U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
